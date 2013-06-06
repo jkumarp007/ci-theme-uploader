@@ -1,0 +1,3 @@
+THEME_NAME : New theme
+AUTHER_NAME : Joe Parihar
+VERSION: 0.1
